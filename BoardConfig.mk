@@ -40,4 +40,4 @@ BOARD_VOLD_MAX_PARTITIONS := 28
 TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/platform/msm_hsusb/gadget/lun%d/file
 
 # inherit from the proprietary version
--include vendor/samsung/kccat6xx/BoardConfigVendor.mk
+-include vendor/samsung/lentislte/BoardConfigVendor.mk
