@@ -21,9 +21,3 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 PRODUCT_DEVICE := lentislte
 PRODUCT_NAME := lineage_lentislte
-
-# SH LANGUAGE SET
-PRODUCT_DEFAULT_LANGUAGE := en
-PRODUCT_DEFAULT_REGION := US
-
-PRODUCT_LOCALES := en_US ko_KR en_GB en_CA en_AU en_NZ en_SG zh_CN zh_TW ja_JP fr_FR fr_BE fr_CA fr_CH it_IT it_CH es_ES de_DE de_AT de_CH de_LI nl_NL nl_BE cs_CZ pl_PL ru_RU # vi_VN
