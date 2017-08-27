@@ -18,7 +18,7 @@
 set -e
 
 export DEVICE=lentislte
-export DEVICE_COMMON=apq8084-common
+export DEVICE_COMMON=lentis-common
 export VENDOR=samsung
 
 ./../$DEVICE_COMMON/extract-files.sh $@

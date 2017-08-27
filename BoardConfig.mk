@@ -12,8 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# inherit from common apq8084
--include device/samsung/apq8084-common/BoardConfigCommon.mk
+# inherit from common lentis
+-include device/samsung/lentis-common/BoardConfigCommon.mk
 
 TARGET_OTA_ASSERT_DEVICE := lentislteskt,lentisltektt,lentisltelgt,lentislte
 
