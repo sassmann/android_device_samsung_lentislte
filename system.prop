@@ -1,2 +1,6 @@
 # Display
 ro.sf.lcd_density=560
+
+# Radio
+rild.libpath=/system/lib/libsec-ril.so
+ro.ril.telephony.mqanelements=6
